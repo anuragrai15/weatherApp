@@ -1,8 +1,11 @@
-# weatherApp
-# Weather App in  Javascript
+# Weather-App 
+This feature provides accurate weather information based on location. This app will also provide rain forecast, humidity information, maximum and minimum temperatures of the day.
+Users will be able to find the sunrise and sunset time with a simple and brief text on today’s weather.
 
-This is a cool weather app made in  Javascript.
+## Technologies:-
+- HTML5
+- CSS
+- Javascript
 
-In this app, I have fetched openweathermap.org API for current weather report.
-
-Hope you'll like this!
+##### Features
+- User can check weather updates .
